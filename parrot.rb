@@ -1,5 +1,5 @@
 
 def parrot (phrase= "Squawk!")
   puts "#{phrase}"
-  puts "#{return"Pretty bird!"}"
+  puts "#{"Pretty bird!"}"
 end
