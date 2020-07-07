@@ -1,3 +1,3 @@
-def parrot_print (phrase="Squawk!")
+def parrot (phrase="Squawk!")
   puts "#{phrase}"
 end
