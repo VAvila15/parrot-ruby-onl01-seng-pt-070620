@@ -1,3 +1,3 @@
-def parrot ("Squawk!""Pretty bird!", phrase)
+def parrot (phrase)
   puts "#{phrase}"
 end
